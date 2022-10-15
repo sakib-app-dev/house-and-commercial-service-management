@@ -1,0 +1,17 @@
+
+.menu-bar{
+    width:250px;
+    height:50vh;
+    position:relative;
+    background-color: #f57b51;
+    transition:0.4s;
+}
+.menu-link{
+    font: size 1.25em;
+}
+.menu-link:active,
+.menu-linkk:focus,
+.menu-link:hover{
+    
+    background-color: black;
+}
